@@ -11,6 +11,13 @@
   <description>Generates a signed jar that EqualsVerifier can use for testing.</description>
   <url>http://www.jqno.nl/equalsverifier</url>
 
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+
   <properties>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
