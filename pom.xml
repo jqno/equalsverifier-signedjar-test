@@ -11,6 +11,12 @@
   <description>Generates a signed jar that EqualsVerifier can use for testing.</description>
   <url>http://www.jqno.nl/equalsverifier</url>
 
+  <scm>
+    <url>http://github.com/jqno/equalsverifier-signedjar-test</url>
+    <connection>scm:git:https://github.com/jqno/equalsverifier-signedjar-test</connection>
+    <developerConnection>scm:git:https://github.com/jqno/equalsverifier-signedjar-test</developerConnection>
+  </scm>
+
   <licenses>
     <license>
       <name>The Apache Software License, Version 2.0</name>
